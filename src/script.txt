@@ -1,0 +1,104 @@
+Script started on Fri Feb 10 15:54:57 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://aniruddhas-MacBook-Pro.local/Users/aniruddhakhan/Desktop/JAVA/Assignment2/src[0m[27m[24m[J(base) aniruddhakhan@aniruddhas-MacBook-Pro src % [K[?2004hjjavac Test.java[?2004l
+./Point.java:131: warning: [removal] finalize() in Object has been deprecated and marked for removal
+        super.finalize();
+             ^
+1 warning
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://aniruddhas-MacBook-Pro.local/Users/aniruddhakhan/Desktop/JAVA/Assignment2/src[0m[27m[24m[J(base) aniruddhakhan@aniruddhas-MacBook-Pro src % [K[?2004hjjava Test[?2004l
+Enter the coordinates of first point: 
+2.0
+3.0
+Enter the coordinates of second point: 
+4.0
+5.0
+Enter the coordinates of third point: 
+6.0
+7.0
+Enter the values for delta x and delta y :
+1.0
+1.0
+
+The three points are:
+Point ID: 1 Point: (3.0,4.0)
+Point ID: 2 Point: (5.0,6.0)
+Point ID: 3 Point: (7.0,8.0)
+No. of active instances so far: 3
+
+The fourth point created:
+Point ID: 4 Point: (0.0,0.0)
+
+The distance between the new point and the first point is: 5.0
+The distance between the new point and the second point is: 7.810249675906654
+The distance between the new point and the third point is: 10.63014581273465
+
+Point ID: 5 The new Point:(5.0,6.0)
+No of Active Instances: 5
+Number of Active instances available now after garbage collection : 2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://aniruddhas-MacBook-Pro.local/Users/aniruddhakhan/Desktop/JAVA/Assignment2/src[0m[27m[24m[J(base) aniruddhakhan@aniruddhas-MacBook-Pro src % [K[?2004hjjava Test[?2004l
+Enter the coordinates of first point: 
+2.0
+4.0
+Enter the coordinates of second point: 
+6.0
+8.0
+Enter the coordinates of third point: 
+10.0    9.0
+4.0
+Enter the values for delta x and delta y :
+1.0
+1.0
+
+The three points are:
+Point ID: 1 Point: (3.0,5.0)
+Point ID: 2 Point: (7.0,9.0)
+Point ID: 3 Point: (10.0,5.0)
+No. of active instances so far: 3
+
+The fourth point created:
+Point ID: 4 Point: (0.0,0.0)
+
+The distance between the new point and the first point is: 5.830951894845301
+The distance between the new point and the second point is: 11.40175425099138
+The distance between the new point and the third point is: 11.180339887498949
+
+Point ID: 5 The new Point:(6.666666666666667,6.333333333333333)
+No of Active Instances: 5
+Number of Active instances available now after garbage collection : 2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://aniruddhas-MacBook-Pro.local/Users/aniruddhakhan/Desktop/JAVA/Assignment2/src[0m[27m[24m[J(base) aniruddhakhan@aniruddhas-MacBook-Pro src % [K[?2004hjjava test    Test[?2004l
+Enter the coordinates of first point: 
+1.0
+1.0
+Enter the coordinates of second point: 
+2.0
+2.0
+Enter the coordinates of third point: 
+3.0
+3.0
+Enter the values for delta x and delta y :
+1.0
+1.0
+
+The three points are:
+Point ID: 1 Point: (2.0,2.0)
+Point ID: 2 Point: (3.0,3.0)
+Point ID: 3 Point: (4.0,4.0)
+No. of active instances so far: 3
+
+The fourth point created:
+Point ID: 4 Point: (0.0,0.0)
+
+The distance between the new point and the first point is: 2.8284271247461903
+The distance between the new point and the second point is: 4.242640687119285
+The distance between the new point and the third point is: 5.656854249492381
+
+Point ID: 5 The new Point:(3.0,3.0)
+No of Active Instances: 5
+Number of Active instances available now after garbage collection : 2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://aniruddhas-MacBook-Pro.local/Users/aniruddhakhan/Desktop/JAVA/Assignment2/src[0m[27m[24m[J(base) aniruddhakhan@aniruddhas-MacBook-Pro src % [K[?2004heeix e exit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Fri Feb 10 15:56:24 2023
